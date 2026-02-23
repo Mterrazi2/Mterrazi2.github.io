@@ -197,7 +197,7 @@ Implemented modular enemy behavior trees and responsive player feedback systems.
 <span>Combat Systems</span>
 <span>Game Balancing</span>
 </div>
-<a class="button" href="LINK_TO_VIDEO_OR_BUILD" target="_blank">View Gameplay</a>
+<a class="button" href="NightAtTheMusuem" target="_blank">View Gameplay</a>
 </div>
 
 <div class="project">
