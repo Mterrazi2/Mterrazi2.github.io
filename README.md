@@ -180,7 +180,7 @@ Focused on scalable state logic and performance-conscious C++ implementation.
 <span>State Machines</span>
 <span>Optimization</span>
 </div>
-<a class="button" href="LINK_TO_VIDEO_OR_BUILD" target="_blank">View Gameplay</a>
+<a class="button" href="NightAtTheMusuem.html" target="_blank">View Gameplay</a>
 </div>
 
 <div class="project">
