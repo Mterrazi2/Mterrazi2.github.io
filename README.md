@@ -146,9 +146,9 @@ footer {
     <div class="subtitle">Gameplay Engineer | Unreal Engine | C++</div>
     <div class="links">
         <a href="mailto:mterrazi2@gmail.com">Email</a>
-        <a href="https://github.com/YOURUSERNAME" target="_blank">GitHub</a>
-        <a href="https://linkedin.com/in/YOURPROFILE" target="_blank">LinkedIn</a>
-        <a href="https://itch.io/profile/YOURPROFILE" target="_blank">itch.io</a>
+        <a href="https://github.com/Mterrazi2" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/michael-t-01813b239/" target="_blank">LinkedIn</a>
+        <a href="https://mterrazi2.itch.io/" target="_blank">itch.io</a>
     </div>
 </header>
 
