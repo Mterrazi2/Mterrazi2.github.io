@@ -216,6 +216,21 @@ Completed full gameplay loop implementation within a two-week sprint cycle.
 <a class="button" href="https://mterrazi2.github.io/RobinHood/" target="_blank">View Gameplay</a>
 </div>
 
+<div class="project">
+<h3>The Flash — Story & Combat Systems</h3>
+<p>
+Focuses heavily on core systems such as super-speed movement, Free-Flow-style combat, 
+and a speed-force ultimate, all built and tuned from scratch.
+</p>
+<div class="tech">
+<span>Unreal Engine</span>
+<span>Combat Systems</span>
+<span>Cutscenes</span>
+<span>Gameplay Loop</span>
+</div>
+<a class="button" href="https://mterrazi2.github.io/TheFlash/" target="_blank">View Gameplay</a>
+</div>
+
 </section>
 
 <section>
