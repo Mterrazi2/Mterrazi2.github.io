@@ -13,7 +13,7 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #0b0c10;
+    background-color: #0a0a0f;
     color: #e6e6e6;
     line-height: 1.6;
 }
@@ -48,7 +48,7 @@ h1 {
 
 .links a {
     margin: 0 15px;
-    color: #66c0ff;
+    color: #F5C542;
     text-decoration: none;
     font-weight: 500;
 }
@@ -64,7 +64,7 @@ section {
 h2 {
     font-size: 28px;
     margin-bottom: 20px;
-    border-left: 4px solid #66c0ff;
+    border-left: 4px solid #F5C542;
     padding-left: 10px;
 }
 
@@ -106,7 +106,7 @@ h2 {
     display: inline-block;
     margin-top: 20px;
     padding: 10px 18px;
-    background-color: #66c0ff;
+    background-color: #F5C542;
     color: #000;
     border-radius: 4px;
     font-weight: bold;
