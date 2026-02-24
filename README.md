@@ -180,7 +180,7 @@ Focused on scalable state logic and performance-conscious C++ implementation.
 <span>State Machines</span>
 <span>Optimization</span>
 </div>
-<a class="button" href="NightAtTheMusuem.html" target="_blank">View Gameplay</a>
+<a class="button" href="https://mterrazi2.github.io/NightAtMuseum/" target="_blank">View Gameplay</a>
 </div>
 
 <div class="project">
@@ -197,7 +197,7 @@ Implemented modular enemy behavior trees and responsive player feedback systems.
 <span>Combat Systems</span>
 <span>Game Balancing</span>
 </div>
-<a class="button" href="NightAtTheMusuem" target="_blank">View Gameplay</a>
+<a class="button" href="https://mterrazi2.github.io/DowntownFortMyers/" target="_blank">View Gameplay</a>
 </div>
 
 <div class="project">
@@ -213,7 +213,7 @@ Completed full gameplay loop implementation within a two-week sprint cycle.
 <span>Spatial Audio</span>
 <span>Gameplay Loop</span>
 </div>
-<a class="button" href="LINK_TO_VIDEO_OR_BUILD" target="_blank">View Gameplay</a>
+<a class="button" href="https://mterrazi2.github.io/RobinHood/" target="_blank">View Gameplay</a>
 </div>
 
 </section>
