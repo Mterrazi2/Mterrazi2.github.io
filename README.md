@@ -24,6 +24,15 @@ body {
     padding: 40px 20px;
 }
 
+a {
+    color: #F5C542;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
 header {
     text-align: center;
     padding: 100px 20px 80px 20px;
