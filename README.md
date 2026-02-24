@@ -18,6 +18,16 @@ body {
     line-height: 1.6;
 }
 
+nav a {
+    color: #F5C542;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+nav a:hover {
+    color: #FFD95A;
+}
+
 .container {
     max-width: 1100px;
     margin: auto;
