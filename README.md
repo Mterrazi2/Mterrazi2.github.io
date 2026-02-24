@@ -102,16 +102,9 @@ h2 {
     font-size: 13px;
 }
 
-.button {
-    background-color: #F5C542;
-    color: #000;
-    transition: 0.25s ease;
-}
-
-.button:hover {
-    background-color: #E6B800;
-    transform: translateY(-2px);
-}
+.button { display: inline-block; margin-top: 20px; padding: 10px 18px; 
+background-color: #F5C542; color: #000; border-radius: 4px; font-weight: 
+bold; text-decoration: none; } .button:hover { background-color: #89d1ff; }
 
 .skills-grid {
     display: grid;
