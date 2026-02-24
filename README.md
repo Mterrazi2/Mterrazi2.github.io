@@ -11,21 +11,21 @@
     box-sizing: border-box;
 }
 
+<header>
+    <h1>
+        <a href="https://mterrazi2.github.io/">Michael Terrazi</a>
+    </h1>
+    
+header h1 a {
+    color: #F5C542;
+    text-decoration: none;
+}
+
 body {
     font-family: 'Segoe UI', sans-serif;
     background-color: #0a0a0f;
     color: #e6e6e6;
     line-height: 1.6;
-}
-
-nav a {
-    color: #F5C542;
-    text-decoration: none;
-    font-weight: 600;
-}
-
-nav a:hover {
-    color: #FFD95A;
 }
 
 .container {
