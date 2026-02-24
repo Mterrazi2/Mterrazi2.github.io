@@ -54,7 +54,7 @@ h1 {
 }
 
 .links a:hover {
-    color: #ffffff;
+    color: white;
 }
 
 section {
@@ -103,18 +103,14 @@ h2 {
 }
 
 .button {
-    display: inline-block;
-    margin-top: 20px;
-    padding: 10px 18px;
     background-color: #F5C542;
     color: #000;
-    border-radius: 4px;
-    font-weight: bold;
-    text-decoration: none;
+    transition: 0.25s ease;
 }
 
 .button:hover {
-    background-color: #89d1ff;
+    background-color: #E6B800;
+    transform: translateY(-2px);
 }
 
 .skills-grid {
