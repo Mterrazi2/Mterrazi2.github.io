@@ -143,7 +143,7 @@ footer {
 
 <header>
     <h1>Michael Terrazi</h1>
-    <div class="subtitle">Gameplay Engineer | Unreal Engine | C++</div>
+    <div class="subtitle">Unreal Engine C++ Gameplay Developer | AI Systems | Freelance & Tutoring</div>
     <div class="links">
         <a href="mailto:mterrazi2@gmail.com">Email</a>
         <a href="https://github.com/Mterrazi2" target="_blank">GitHub</a>
