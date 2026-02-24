@@ -46,14 +46,9 @@ h1 {
     margin-top: 25px;
 }
 
-header h1 a {
-    color: #F5C542;
-    text-decoration: none;
-}
-
-header h1 a:hover {
-    color: #FFD95A;
-}
+.links a { margin: 0 15px; color: #F5C542; 
+text-decoration: none; font-weight: 500; } 
+.links a:hover { color: white; }
 
 section {
     margin-top: 80px;
