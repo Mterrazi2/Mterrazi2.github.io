@@ -9,16 +9,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
+header h1 a,
+header h1 a:visited,
+header h1 a:active {
+    color: #F5C542 !important;
+    text-decoration: none !important;
 }
 
-<header>
-    <h1>
-        <a href="https://mterrazi2.github.io/">Michael Terrazi</a>
-    </h1>
-    
-header h1 a {
-    color: #F5C542;
-    text-decoration: none;
+header h1 a:hover {
+    color: #FFD95A !important;
 }
 
 body {
